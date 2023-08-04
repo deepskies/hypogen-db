@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "example-environment"
+name = "HypogenDB"
 version = "0.1.0"
 license = "Apache-2.0"
-description = "A short description of your library"
-authors = ["Name <email_address>",]
+description = "A library for direct interfacing with the hypogen database instance."
+authors = ["Ashia Livaudais <pantagruelspendulum@protonmail.com>", "Michael House <mjhouse@protonmail.com>"]
 homepage = "url/to/the/webpage"
-repository = "url/to/the/github/repo"
+repository = "https://github.com/deepskies/hypogen-db"
 documentation = "url/to/the/documentation"
 
 [tool.poetry.dependencies]
