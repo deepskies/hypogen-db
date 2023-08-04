@@ -1,0 +1,1 @@
+CONNECTION_ITEMS = {"host":"localhost", "port": "5432", "database": "hypogen"}
