@@ -34,11 +34,6 @@ class Connection:
     def engine(self):
         return self._engine
 
-# Example usage
-connection = Connection(user="username", password="password", host="localhost", port=5432, database="mydatabase")
-engine = connection.engine
-session = connection.create_session()
-
 
 # class SQLAlchemyConnection():
 #     """
