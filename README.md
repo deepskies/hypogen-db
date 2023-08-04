@@ -1,8 +1,3 @@
-
-
-<!---Replace this with your actual paper if you have one! -->
-[![arXiv](https://img.shields.io/badge/arXiv-999.9999-b31b1b.svg)](https://arxiv.org/abs/999.9999)
-
 <!--- Update these with your own repo's link -->
 
 [![Test](https://github.com/deepskies/DeepTemplate-Tools/actions/workflows/deep-test.yml/badge.svg)](https://github.com/deepskies/DeepTemplate-Tools/actions/workflows/deep-test.yml)
